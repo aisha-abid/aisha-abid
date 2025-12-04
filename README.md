@@ -1,12 +1,22 @@
-- 👋 Hi, I’m Ayesha Naz.
-- 👀 Exploring the world of web development and diving into AI with Python
-- 🌱 I’m currently learning JavaScript, and taking a 4-month AI course (Python basics + ML concepts)
-- 💻 Final Year BS-IT Student | Building my FYP 
-- 💞️ Open to collaborating on web projects
-- 📫 You can reach me via
-       📧 Email: ashimughal687@gmail.com
-       🔗 LinkedIn: www.linkedin.com/in/ayesha-naz 
-- ⚡ I’m not racing anyone—I’m building, learning, and evolving at my own pace.
+👋 Hi, I’m Ayesha Naz
+A Full Stack MERN Developer passionate about building clean and scalable web applications.
+
+💻 What I do:
+
+Develop full-stack web projects (React, Node.js, MongoDB)
+
+Strengthen JavaScript & modern web development skills
+
+🎓 BS-IT Graduate
+🤝 Open to collaborating on web development projects.
+
+📫 Contact:
+
+Email: ashimughal687@gmail.com
+
+LinkedIn: linkedin.com/in/ayesha-naz
+
+⚡ Growing, building, and improving at my own pace.
 
 <!---
 aisha-abid/aisha-abid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
