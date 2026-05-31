@@ -16,6 +16,8 @@ Email: ashimughal687@gmail.com
 
 LinkedIn: linkedin.com/in/ayesha-naz
 
+Portfolio: https://aishanaz.netlify.app/
+
 ⚡ Growing, building, and improving at my own pace.
 
 <!---
